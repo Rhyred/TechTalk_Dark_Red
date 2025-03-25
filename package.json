@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "preinstall": "npx npm@9 install --legacy-peer-deps ||npm install --legacy-perr-deps",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
