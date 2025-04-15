@@ -53,7 +53,7 @@ const materiList = [
     id: 5,
     title: "Edge AI: Implementasi AI di Edge",
     description: "Menjalankan model AI di perangkat edge untuk inferensi real-time",
-    image: "/AI.png?height=200&width=400",
+    image: "/AI.webp?height=200&width=400",
     category: "AI",
     duration: "3 jam",
     level: "Lanjutan",

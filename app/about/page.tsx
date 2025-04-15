@@ -103,7 +103,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
             <div className="order-2 md:order-1 relative h-[300px] w-full animate-fade-right animate-delay-200">
               <Image
-                src="/itenas.png?height=600&width=800"
+                src="/itenas.jpg?height=600&width=800"
                 alt="Sejarah Kami"
                 fill
                 className="object-cover rounded-lg hover:scale-105 transition-transform duration-300"
