@@ -90,7 +90,7 @@ export default function AboutPage() {
             </div>
             <div className="relative h-[300px] w-full animate-fade-left animate-delay-300">
               <Image
-                src="/placeholder.svg?height=600&width=800"
+                src="/ppg.jpg?height=600&width=800"
                 alt="Misi Kami"
                 fill
                 className="object-cover rounded-lg hover:scale-105 transition-transform duration-300"
