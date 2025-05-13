@@ -132,7 +132,7 @@ export default function AboutPage() {
             <div className="aspect-video rounded-lg overflow-hidden bg-muted shadow-lg hover:shadow-xl transition-shadow duration-300">
               <iframe
                 className="w-full h-full"
-                src="https://www.youtube.com/embed/wTsMzIZC12k"
+                src="https://www.youtube.com/embed/wTsMzlZC12k?si=gd8HYdc-ZFNDjS-A"
                 title="Video Project  Tech.Talk"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
