@@ -18,9 +18,9 @@ const teamMembers = [
   },
   {
     name: "Ratu Qolbu Maziah",
-    role: "Content Creator",
+    role: "Content Writter",
     image: "quens.jpeg?height=300&width=300",
-    bio: "Mahasiswa Teknik Informatika dengan fokus pada AI dan Machine Learning. Ratu bertanggung jawab untuk membuat dan mengelola konten pembelajaran Dan Referensi Informasi di Tech.Talk. ",
+    bio: "Mahasiswa Teknik Informatika dengan fokus pada AI dan Machine Learning. Ratu bertanggung jawab untuk membuat dan mengelola konten pembelajaran Dan Referensi Informasi di Tech.Talk , serta membangun sinopsis project video ",
     social: {
       github: "#",
       linkedin: "#",
@@ -31,7 +31,7 @@ const teamMembers = [
     name: "Hafidz Hasan Sunandar",
     role: "UI/UX Designer",
     image: "/hafidz.jpeg?height=300&width=300",
-    bio: "Mahasiswa Teknik Informatika dengan keahlian dalam UI/UX. Hafidz merancang antarmuka pengguna yang intuitif dan menarik untuk platform Tech.Talk.",
+    bio: "Mahasiswa Teknik Informatika dengan keahlian dalam UI/UX. Hafidz merancang antarmuka pengguna yang intuitif dan menarik untuk platform Tech.Talk , serta membuat Storyline yang menarik.",
     social: {
       github: "#",
       linkedin: "#",
@@ -42,7 +42,7 @@ const teamMembers = [
     name: "Fadli Al Hasybi",
     role: "Researcher",
     image: "/fadli.jpeg?height=300&width=300",
-    bio: "Mahasiswa Teknik Informatika dengan fokus pada IoT dan Edge Computing. Fadli melakukan penelitian tentang tren terbaru dalam Edge Computing untuk konten Tech.Talk.",
+    bio: "Mahasiswa Teknik Informatika dengan fokus pada IoT dan Edge Computing. Fadli melakukan penelitian tentang tren terbaru dalam Edge Computing untuk konten Tech.Talk , serta berfokus pada Storyboard",
     social: {
       github: "#",
       linkedin: "#",
@@ -53,7 +53,7 @@ const teamMembers = [
     name: "Raihan",
     role: "Marketing & Outreach",
     image: "/raihan.jpeg?height=300&width=300",
-    bio: "Mahasiswa Teknik Informatika dengan minat pada teknologi. Raihan bertanggung jawab untuk mempromosikan Tech.Talk sekaligus pengoptimalan project TIM dari 0 dan membangun kemitraan dengan institusi pendidikan.",
+    bio: "Mahasiswa Teknik Informatika dengan minat pada teknologi. Raihan bertanggung jawab untuk mempromosikan Tech.Talk sekaligus Membuat Project video.",
     social: {
       github: "#",
       linkedin: "#",
@@ -130,7 +130,6 @@ export default function AboutPage() {
           <h2 className="text-2xl font-bold mb-6 text-center">Project video</h2>
           <div className="max-w-3xl mx-auto">
             <div className="aspect-video rounded-lg overflow-hidden bg-muted shadow-lg hover:shadow-xl transition-shadow duration-300">
-              {/* place Link yt In here */}
               <iframe
                 className="w-full h-full"
                 src="https://www.youtube.com/embed/wTsMzIZC12k"
